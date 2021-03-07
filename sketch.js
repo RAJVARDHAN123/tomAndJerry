@@ -15,6 +15,7 @@ function preload() {
 }
 
 function setup(){
+    
     canvas = createCanvas(1000,800);
 
     tom = createSprite(870, 600);
